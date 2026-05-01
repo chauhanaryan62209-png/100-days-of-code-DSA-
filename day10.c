@@ -1,6 +1,7 @@
 #include <stdio.h>
-#include 
-#include 
+#include <string.h>
+#include <stdbool.h>
+
 
 int main() {
     char str[1000];
